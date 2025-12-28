@@ -160,7 +160,7 @@ importers:
         version: 3.25.76
     devDependencies:
       '@tailwindcss/postcss':
-        specifier: 2.15.4
+        specifier: ^4.1.9
         version: 4.1.18
       '@types/node':
         specifier: ^22
